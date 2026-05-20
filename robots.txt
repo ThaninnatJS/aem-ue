@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue--thaninnatjs.aem.live/sitemap.xml
