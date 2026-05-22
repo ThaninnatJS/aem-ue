@@ -93,7 +93,7 @@ function createDisplay(contentFragment) {
                       ${data[keys.itinerary].html || data[keys.itinerary].plaintext}
                   </div>
               </div>
-            
+
           </div>
     </div>
     </div>`;
