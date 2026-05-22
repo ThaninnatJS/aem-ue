@@ -93,10 +93,7 @@ function createDisplay(contentFragment) {
                       ${data[keys.itinerary].html || data[keys.itinerary].plaintext}
                   </div>
               </div>
-              <div class="content-fragment-${keys.title}-overlay">
-                <h1 class="content-fragment-${keys.title}" data-aue-type="text"
-                data-aue-prop="${keys.title} ">${data[keys.title]}</h1>
-                </div>
+
           </div>
     </div>
     </div>`;
